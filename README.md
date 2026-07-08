@@ -1,4 +1,4 @@
-# IDA-Pro-Crimson-Aero-Theme
+# IDA Pro Crimson Theme
 my theme
 
 Color Palette
