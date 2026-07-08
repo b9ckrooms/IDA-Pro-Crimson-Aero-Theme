@@ -1,3 +1,4 @@
+<img width="1919" height="1055" alt="image_2026-07-09_01-02-50" src="https://github.com/user-attachments/assets/11f3449a-847d-4597-a8f5-db0dad52c031" />
 # IDA Pro Crimson Theme
 my theme
 
