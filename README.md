@@ -1,21 +1,19 @@
 # IDA-Pro-Crimson-Aero-Theme
-crimson/
-├── README.md
-├── theme.css
-├── images/
-│   ├── control-close-aero.png
-│   ├── control-float-aero.png
-│   ├── control-fullscreen-aero.png
-│   ├── checkbox-checked.png
-│   ├── checkbox-checked-disabled.png
-│   ├── radio-checked.png
-│   ├── radio-checked-disabled.png
-│   ├── arrow-down.png
-│   ├── arrow-up-normal.png
-│   ├── arrow-down-normal.png
-│   ├── arrow-left-normal.png
-│   └── arrow-right-normal.png
-└── preview/
-    ├── screenshot1.png
-    ├── screenshot2.png
-    └── screenshot3.png
+my theme
+
+Color Palette
+text
+
+Background:  #1A1518 (Very dark crimson)
+Text:        #D8D0D0 (Warm light gray)
+Selection:   #6B2A3A (Deep red)
+Active:      #7A3040 - #5A2030 (Crimson gradient)
+Inactive:    #3A2528 - #2E1D20 (Burgundy gradient)
+Accent:      #A06070 (Highlight red)
+
+Requirements
+
+IDA Pro 7.0 or higher
+Qt5-based theme system
+
+"C:\Program Files\IDA Professional 9.2\themes\crimson"
